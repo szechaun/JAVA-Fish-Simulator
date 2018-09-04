@@ -11,11 +11,11 @@ Download Java 8 SDK  http://www.oracle.com/technetwork/java/javase/downloads/jdk
 ### Installing Project
 1.Download project as Zip
 <br />
-3.Open Eclipse
+2.Open Eclipse
 <br />
-4.From the main menu bar, select File -> Import.
+3.From the main menu bar, select File -> Import.
 <br />
-5.Choose General -> Archive File
+4.Choose General -> Archive File
 <br />
 5.Browse for downloaded Zip
 <br />
